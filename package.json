@@ -1,0 +1,19 @@
+{
+  "name": "themind",
+  "version": "1.0.0",
+  "description": "Juego de cartas para poner a prueba la sintonia mental",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/porronxo92/TheMind.git"
+  },
+  "author": "Ruben de la Cruz Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/porronxo92/TheMind/issues"
+  },
+  "homepage": "https://github.com/porronxo92/TheMind#readme"
+}
